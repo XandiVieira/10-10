@@ -6,5 +6,5 @@ public class User {
     boolean premium;
     String profilePhoto;
     int power;
-    experiments<Experiment>List;
+    List<Experiment> experiments;
 }
