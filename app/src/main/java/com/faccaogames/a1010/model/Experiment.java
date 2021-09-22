@@ -1,7 +1,7 @@
 package com.faccaogames.a1010.model;
 
 public class Experiment {
-    String userId;
+String userId;
     StatusEnum status;
     CategoryEnum category;
     int valuations;
@@ -12,5 +12,4 @@ public class Experiment {
     List<Report>reports;
     boolean commentsOn;
     Long createdAt;
-
 }
