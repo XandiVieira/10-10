@@ -3,10 +3,11 @@ package com.faccaogames.a1010.model;
 import java.util.List;
 
 public class User {
-    String id;
-    String userName;
-    boolean premium;
-    String profilePhoto;
-    int power;
-    List<Experiment> experiments;
+
+    private String id;
+    private String userName;
+    private String profilePhoto;
+    private boolean premium;
+    private int power;
+    private List<Experiment> experiments;
 }
