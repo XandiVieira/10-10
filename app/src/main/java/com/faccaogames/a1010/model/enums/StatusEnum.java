@@ -1,4 +1,7 @@
 package com.faccaogames.a1010.model.enums;
 
-public class StatusEnum {
+public enum StatusEnum {
+    ACTIVE,
+    PAUSED,
+
 }
