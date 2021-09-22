@@ -1,4 +1,6 @@
 package com.faccaogames.a1010.model;
 
-public class Report {
+public class Report{
+    String id;
+    String reason;
 }
