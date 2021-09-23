@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">1010</string>
     <string name="slogan">Receba feedbacks sinceros de suas fotos, textos e muito mais!</string>
+    <string name="logo_content_description"><![CDATA[<string name=\"logo_content_description\">white background showing \'10/10\' in black</string>]]></string>
+    <string name="on_logging">Ao entrar, você concorda com nossos</string>
+    <string name="terms"><u>termos de serviço</u></string>
+    <string name="privacy_policy">e <u>politica de privacidade</u></string>
+    <string name="we_do_not_post">Não postamos nada no Facebook</string>
+    <string name="version">Versão %1$s</string>
+    <string name="firebase_error_login">Login error</string>
 </resources>
