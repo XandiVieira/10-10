@@ -1,6 +1,15 @@
 package com.faccaogames.a1010.model;
 
-public class Report{
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@Getter
+@Setter
+@AllArgsConstructor
+@NoArgsConstructor
+public class Report {
 
     private String id;
     private String reason;
