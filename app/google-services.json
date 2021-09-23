@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "626897656691",
+    "project_id": "project-1821914506677320453",
+    "storage_bucket": "project-1821914506677320453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626897656691:android:a6e3d7657a7e0fcb334306",
+        "android_client_info": {
+          "package_name": "com.faccaogames.a1010"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626897656691-kcqphn2ggl81oanqc8v9k059ngkfr2ej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faccaogames.a1010",
+            "certificate_hash": "42edcfe84126bc502723b9899f6b9e50e2d1564a"
+          }
+        },
+        {
+          "client_id": "626897656691-cpc568i79tmrsc0dvl8cho3t4r7jdenk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Aqb2QoIuJwHpQZdk97chHnKkLURTOc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626897656691-cpc568i79tmrsc0dvl8cho3t4r7jdenk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
