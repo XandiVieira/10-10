@@ -8,4 +8,5 @@
     <string name="we_do_not_post">Não postamos nada no Facebook</string>
     <string name="version">Versão %1$s</string>
     <string name="firebase_error_login">Login error</string>
+    <string name="facebook_app_id">409727737177450</string> <string name="fb_login_protocol_scheme">fb409727737177450</string>
 </resources>
